@@ -1,4 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:Label text="Hello Everyone" display-tooltip-when-elided="true" style="font-size: 40px; -unity-font-style: bold;" />
-    <ui:Button text="Click Me" display-tooltip-when-elided="true" style="opacity: 1; overflow: hidden; left: 5px; position: relative; white-space: nowrap; -unity-text-align: upper-center; width: 200px; height: 50px; top: 27px;" />
-</ui:UXML>

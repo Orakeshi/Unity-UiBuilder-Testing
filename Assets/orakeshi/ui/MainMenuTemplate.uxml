@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/orakeshi/ui/Styles/Test.uss?fileID=7433441132597879392&amp;guid=b54d28d44df7c3643b27d7d87bcb2c17&amp;type=3#Test" />
+    <ui:Button text="Start Experience" display-tooltip-when-elided="true" name="start-button" class="button-style" />
+    <ui:Button text="Show &#10;Message" display-tooltip-when-elided="true" name="message-button" class="button-style" />
+    <ui:Label text="Label" display-tooltip-when-elided="true" name="message-text" style="display: none;" />
+</ui:UXML>

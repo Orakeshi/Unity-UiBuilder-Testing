@@ -6,7 +6,9 @@ public class UIHandler : MonoBehaviour
 {
     // provide reference in editor inspector (from step 2)
     public UIDocument UIDocument;
-    Button button;
+    
+    [SerializeField]
+    private Button button;
     Label label;
     TextField textField;
 
